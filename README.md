@@ -2,9 +2,9 @@
 Neste laboratório, eu pratiquei o processo de configuração de uma instância de banco de dados na plataforma Microsoft Azure com apoio da documentação oficial em artigo no Microsoft Learning "[Início Rápido: criar Instância Gerenciada de SQL do Azure](https://learn.microsoft.com/pt-br/azure/azure-sql/managed-instance/instance-create-quickstart?view=azuresql&tabs=azure-portal)", indicado na seção "Recursos Úteis" do conteúdo Entendendo Desafio. 
 
 Evidências das práticas realizadas:  
-![Implantação concluída na VM do laboratório 2](/.images/implantacao-concluida-vm-do-lab2.png)  
-![Visão geral das propriedades da VM do laboratório 2](/.images/visao-geral-das-propriedades-da-vm-do-lab2.png)  
-![Conexão via CLI do Azure na VM do laboratório 2 instanciada](/.images/conexao-via-cli-do-azure-na-vm-do-lab2-instanciada.png)  
+![Implantação concluída no Banco de Dados do laboratório 3](/.images/implantacao-concluida-bd-do-lab3.png)  
+![Visão geral das propriedades do servidor do Banco de Dados do laboratório 3](/.images/visao-geral-das-propriedades-do-servidor-bd-do-lab3.png)  
+![Visão geral das propriedades do Banco de Dados do laboratório 3](/.images/visao-geral-das-propriedades-do-bd-do-lab3.png)  
 
 Devido ao desafio proposto para concluir a entrega do projeto, eu pude aprender a:
 - Aplicar os conceitos de computação em nuvem em um cenário prático (exercitando também o entendimento sobre Regions e Zones - Confiabilidade e Resiliência);
